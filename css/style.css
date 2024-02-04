@@ -315,6 +315,11 @@ section.contact form textarea {
   width: 90%;
 }
 
+section.contact form input::placeholder,
+section.contact form textarea::placeholder {
+  color: #aeadad;
+}
+
 section.contact form button {
   font-size: 18px;
   padding: 10px 20px;

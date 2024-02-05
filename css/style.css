@@ -436,7 +436,7 @@ footer .copyright p {
 }
 
 @media (max-width: 400px) {
-header.col-md-5 .product .product-img img {
+header .col-md-5 .product .product-img img {
   width: 350px;
 }
 }
